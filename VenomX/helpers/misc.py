@@ -113,7 +113,7 @@ async def create_botlog(client):
     LOGGER("VenomX").info(
         "WAIT A MOMENT. I'M CREATING A USERBOT LOG GROUP FOR YOU"
     )
-    desc = "Group Log for VenomX-UserBot.\n\nPLEASE DO NOT LEAVE THIS GROUP.\n\n✨ Powered By ~ @venomowners ✨"
+    desc = "Group Log for VenomX-UserBot.\n\nPLEASE DO NOT LEAVE THIS GROUP.\n\n✨ Powered By ~ @MR_NARU ✨"
     try:
         loggroup = await client.create_supergroup("UserBot Log", desc)
         if await in_my_hero():
