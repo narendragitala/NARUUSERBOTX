@@ -4,16 +4,16 @@
 class First:
      ALIVE = "`Still Working On Fire 🔥`"
      REPO = """
-**Hey**, __I am using__ 🔥 **VenomX-Userbot** 🔥
+**Hey**, __I am using__ 🔥 **NaruX-Userbot** 🔥
 
        __Thanks For Using me__
 
 ✣ **Userbot Version :** `{}`
-✣ **Group Support :** [ᴠᴇɴᴏᴍ ᴄʜᴀᴛᴢ](t.me/venom_chatz)
-✣ **Channel Man :** [ᴠᴇɴᴏᴍ ᴛᴇᴄʜ](t.me/VenomOwners)
-✣ **Repo Owner :** [ᴠᴇɴᴏᴍ](t.me/Venom_bolte_pubIic)
-✣ **Repo :** [VenomX-Userbot](https://github.com/venombolteop/VenomX)"""
-     CREATOR = 'I was created by my master <a href="https://github.com/venombolteop/VenomX">Fuck</a> on a rainy day.'
+✣ **Group Support :** [love ᴄʜᴀᴛᴢ](t.me/shayrigalibki)
+✣ **Channel Man :** [naru ᴛᴇᴄʜ](t.me/all_about_naru)
+✣ **Repo Owner :** [naru](t.me/mr_naru)
+✣ **Repo :** [NARUX-Userbot](LND LE LE @MR_NARU KA)"""
+     CREATOR = 'I was created by my master <a href="https://github.com/narendragitala/NARUUSERBOTX">Fuck</a> on a rainy day.'
      MSG_ON = """
 🔥 **VenomX-Userbot Successfully Activated**
 ━━
