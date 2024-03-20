@@ -1,6 +1,6 @@
 {
-   "name": "VenomX-Userbot",
-   "description": "[VenomX-Userbot] is a modular Telegram userbot running on Python3 with the Pyrogram Library.",
+   "name": "Narux-Userbot",
+   "description": "[Natux-Userbot] is a modular Telegram userbot running on Python3 with the Pyrogram Library.",
    "stack": "container",
    "env": {
      "API_ID": {
