@@ -23,8 +23,8 @@ async def main():
         try:
             await bot.start()
             bot.me = await bot.get_me()
-            await bot.join_chat("VenomOwners")
-            await bot.join_chat("Venom_Chatz")
+            await bot.join_chat("all_about_naru")
+            await bot.join_chat("BROKENSHAYRI1")
             try:
                 await bot.send_message(
                     BOTLOG_CHATID, MSG_ON.format(version=BOT_VER, handler=CMD_HANDLER)
